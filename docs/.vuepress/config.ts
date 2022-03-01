@@ -9,7 +9,7 @@ export default defineUserConfig<MixThemeConfig, ViteBundlerOptions>({
   // Site Config
   base: "/note/",
   lang: "zh-TW",
-  title: "VuePress Mix Template",
+  title: "About Coding",
   description:
     "Template repository for quickly building note site with VuePress and Mix Theme.",
 
@@ -19,8 +19,8 @@ export default defineUserConfig<MixThemeConfig, ViteBundlerOptions>({
   // Theme Config
   theme: "vuepress-theme-mix",
   themeConfig: {
-    logo: "/images/logo.png",
-    title: "VuePress Mix Template",
+    // logo: "/images/logo.png",
+    title: "About Coding",
 
     navbar: navbar,
     sidebar: sidebar,

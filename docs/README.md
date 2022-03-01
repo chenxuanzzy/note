@@ -1,12 +1,12 @@
 ---
 home: true
 title: Home
-heroImage: /images/hero.png
+# heroImage: /images/hero.png
 actions:
   - text: 進入
     link: /note/
     type: primary
-  - text: 關於
+  - text: 關於我
     link: /about/
     type: secondary
 features:
