@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/hero.png
 actions:
   - text: 進入
-    link: /page/
+    link: /note/
     type: primary
   - text: 關於
     link: /about/
