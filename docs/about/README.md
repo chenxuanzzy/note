@@ -1,10 +1,12 @@
 ---
-title: 關於
+title: 關於我
 ---
 
-## 關於
+## 關於我
 
-<CodeGroup>
+寫寫筆記
+
+<!-- <CodeGroup>
   <CodeGroupItem title="YARN">
 
 ```bash:no-line-numbers
@@ -20,4 +22,4 @@ npm install
 ```
 
   </CodeGroupItem>
-</CodeGroup>
+</CodeGroup> -->

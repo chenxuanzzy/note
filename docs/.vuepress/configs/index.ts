@@ -6,36 +6,40 @@ export const navbar: NavbarConfig = [
     link: '/',
   },
   {
-    text: '頁面',
-    link: '/example/',
+    text: '筆記',
+    link: '/note/',
   },
   {
-    text: '群組',
-    children: [
-      '/CHANGELOG.md',
-      {
-        text: 'H.-H. Peng',
-        link: 'https://github.com/Hsins',
-      },
-    ],
-  },
-  {
-    text: '關於',
+    text: '關於我',
     link: '/about/',
   },
   {
     text: 'GitHub',
-    link: 'https://github.com/Hsins/vuepress-mix-template',
+    link: 'https://github.com/chenxuanzzy',
+  },
+  {
+    text: '聯絡我',
+    children: [
+      {
+        text: 'FaceBook',
+        link: 'chenxsuan019@gmail.com',
+      },
+      {
+        text: 'Linked',
+        link: 'chenxsuan019@gmail.com',
+      },
+      '/CHANGELOG.md',
+    ],
   },
 ];
 
 export const sidebar: SidebarConfig = {
-  '/example/': [
+  '/note/': [
     {
       type: 'group',
-      text: '範例頁面',
+      text: 'LeetCode',
       link: '',
-      children: ['', 'code-block'],
+      children: ['', 'RomanToInteger','MergeTwoSortedLists'],
     },
   ],
 };

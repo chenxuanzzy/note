@@ -14,7 +14,7 @@ export default defineUserConfig<MixThemeConfig, ViteBundlerOptions>({
     "Template repository for quickly building note site with VuePress and Mix Theme.",
 
   // Header
-  head: [["link", { rel: "icon", href: "favicon.ico" }]],
+  // head: [["link", { rel: "icon", href: "logo.ico" }]],
 
   // Theme Config
   theme: "vuepress-theme-mix",

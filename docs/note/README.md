@@ -1,11 +1,13 @@
 ---
-title: 範例頁面
-cover: https://i.imgur.com/oBxDoND.png
+title: LeetCode Intro
+# cover: https://i.imgur.com/oBxDoND.png
 ---
 
-# 範例頁面
+# LeetCode Intro
 
-## 重點強調
+關於 JavaScript 刷題筆記
+
+<!-- ## 重點強調
 
 這是一段<mark>閃閃亮亮</mark>的文字
 
@@ -47,8 +49,8 @@ One plus one equals: {{ 1 + 1 }}
 
 The HTML specification is maintained by the W3C.
 
-*[HTML]: Hyper Text Markup Language
-*[W3C]:  World Wide Web Consortium
+_[HTML]: Hyper Text Markup Language
+_[W3C]: World Wide Web Consortium
 
 ```
 The HTML specification is maintained by the W3C.
@@ -197,4 +199,4 @@ $$
 
 ```
 <CodePenSnippet title='Sunrise over still lake' slug='yLVeLNg' user='pehaa' />
-```
+``` -->

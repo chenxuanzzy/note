@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/hero.png
 actions:
   - text: 進入
-    link: /example/
+    link: /page/
     type: primary
   - text: 關於
     link: /about/
@@ -16,5 +16,5 @@ features:
     details: Be practical, not including showy features, and keeping elegant and simple.
   - title: Dark Mode
     details: Supporting dark mode, which enhances the reading experience in a dark environment.
-footer: MIT Licensed | Copyright © 2022-present Hsins
+footer: MIT Licensed | Copyright © 2022-present Chen Xuan
 ---
