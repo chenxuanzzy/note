@@ -9,7 +9,7 @@ export default defineUserConfig<MixThemeConfig, ViteBundlerOptions>({
   // Site Config
   base: "/note/",
   lang: "zh-TW",
-  title: "About Coding",
+  title: "Persimmon's Note",
   description:
     "Template repository for quickly building note site with VuePress and Mix Theme.",
 
@@ -19,8 +19,8 @@ export default defineUserConfig<MixThemeConfig, ViteBundlerOptions>({
   // Theme Config
   theme: "vuepress-theme-mix",
   themeConfig: {
-    // logo: "/images/logo.png",
-    title: "About Coding",
+    logo: "/images/persimmon1.png",
+    title: "Persimmon's Note",
 
     navbar: navbar,
     sidebar: sidebar,

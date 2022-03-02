@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-# heroImage: /images/hero.png
+heroImage: /images/persimmon1.png
 actions:
   - text: 進入
     link: /note/

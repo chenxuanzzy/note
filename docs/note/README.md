@@ -3,9 +3,9 @@ title: LeetCode Intro
 # cover: https://i.imgur.com/oBxDoND.png
 ---
 
-# LeetCode Intro
+# Note
 
-關於 JavaScript 刷題筆記
+關於 JavaScript 筆記
 
 <!-- ## 重點強調
 

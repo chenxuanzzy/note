@@ -39,7 +39,28 @@ export const sidebar: SidebarConfig = {
       type: 'group',
       text: 'LeetCode',
       link: '',
-      children: ['', 'RomanToInteger','MergeTwoSortedLists'],
+      children: [
+        '',
+        {
+          type: 'group',
+          text: 'Easy',
+          link: '',
+          children: ['RomanToInteger', 'MergeTwoSortedLists'],
+        },
+        {
+          type: 'group',
+          text: 'Medium',
+          link: '',
+          children: ['LongestSubstringWithoutRepeatingCharacters','MinimumSizeSubarraySum'],
+        },
+      ],
+    },
+    {
+      type: 'group',
+      text: 'JavaScript - 30',
+      link: '',
+      children: [
+      ],
     },
   ],
 };

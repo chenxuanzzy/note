@@ -1,8 +1,8 @@
-# 21. Merge Two Sorted Lists - Easy
+# 21. Merge Two Sorted Lists
 
 ## 題目
 
-@[code](./code/MergeTwoSortedLists/index.js)
+@[code](./code/LeetCode/MergeTwoSortedLists/index.js)
 
 <!-- ## 段落上色
 

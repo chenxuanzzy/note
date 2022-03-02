@@ -1,8 +1,8 @@
-# 13. Roman to Integer - Easy
+# 13. Roman to Integer
 
 ## 題目
 
-@[code](./code/RomanToInteger/index.js)
+@[code](./code/LeetCode/RomanToInteger/index.js)
 
 <!-- ## 段落上色
 
