@@ -1,5 +1,5 @@
 ---
-title: 更新日誌
+title: Update Blog
 ---
 
 # 更新日誌

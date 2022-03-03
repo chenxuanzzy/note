@@ -1,5 +1,5 @@
 ---
-title: 關於我
+title: About
 ---
 
 ## 關於我

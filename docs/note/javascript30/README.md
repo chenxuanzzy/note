@@ -1,29 +1,13 @@
 ---
-title: Note
+title: Intro
 # cover: https://i.imgur.com/oBxDoND.png
 ---
 
-# Note
+# JavaScript - 30
 
-> F2E - Note
-
-## LeetCode
+## 前言
 
 -
-
--
-
-## JavaScript - 30
-
--
-
-## Vue
-
-### projects
-
-### tutorial
-
-## tailwindcss
 
 <!-- ## 重點強調
 

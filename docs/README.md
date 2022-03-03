@@ -3,10 +3,10 @@ home: true
 title: Home
 heroImage: /images/persimmon1.png
 actions:
-  - text: 進入
+  - text: Get Started
     link: /note/
     type: primary
-  - text: 關於我
+  - text: About
     link: /about/
     type: secondary
 features:
