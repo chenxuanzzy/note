@@ -7,7 +7,7 @@ const { path } = require("@vuepress/utils");
 
 export default defineUserConfig<MixThemeConfig, ViteBundlerOptions>({
   // Site Config
-  base: "/note/",
+  base: "/learning/",
   lang: "zh-TW",
   title: "Persimmon's Note",
   description:

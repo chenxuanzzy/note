@@ -2,15 +2,15 @@ import type { NavbarConfig, SidebarConfig } from 'vuepress-theme-mix';
 
 export const navbar: NavbarConfig = [
   {
-    text: '首頁',
+    text: 'Home',
     link: '/',
   },
   {
-    text: '筆記',
+    text: 'Note',
     link: '/note/',
   },
   {
-    text: '關於我',
+    text: 'About',
     link: '/about/',
   },
   {
@@ -18,11 +18,11 @@ export const navbar: NavbarConfig = [
     link: 'https://github.com/chenxuanzzy',
   },
   {
-    text: '聯絡我',
+    text: 'Connect',
     children: [
       {
         text: 'FaceBook',
-        link: 'chenxsuan019@gmail.com',
+        link: 'https://www.facebook.com/chenxuanzhao202011',
       },
       {
         text: 'Linked',
@@ -34,23 +34,22 @@ export const navbar: NavbarConfig = [
 ];
 
 export const sidebar: SidebarConfig = {
-  '/note/': [
+  '/note/': ['',
     {
       type: 'group',
       text: 'LeetCode',
-      link: '',
+      link: 'leetcode',
       children: [
-        '',
         {
           type: 'group',
           text: 'Easy',
-          link: '',
+          link: 'easy',
           children: ['RomanToInteger', 'MergeTwoSortedLists'],
         },
         {
           type: 'group',
           text: 'Medium',
-          link: '',
+          link: 'medium',
           children: ['LongestSubstringWithoutRepeatingCharacters','MinimumSizeSubarraySum'],
         },
       ],
@@ -58,8 +57,36 @@ export const sidebar: SidebarConfig = {
     {
       type: 'group',
       text: 'JavaScript - 30',
+      link: 'javascript30',
+      children: ['','01-JavaScriptDrumKit',
+      ],
+    },
+    {
+      type: 'group',
+      text: 'Vue - projects',
       link: '',
       children: [
+      ],
+    },
+    {
+      type: 'group',
+      text: 'Vue - tutorial',
+      link: '',
+      children: [
+      ],
+    },
+    {
+      type: 'group',
+      text: 'Tailwindcss',
+      link: '',
+      children: [
+      ],
+    },
+    {
+      type: 'group',
+      text: 'Contribution',
+      link: 'contribution',
+      children: ['codimd-modify'
       ],
     },
   ],
