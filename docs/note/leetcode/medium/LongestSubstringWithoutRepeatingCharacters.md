@@ -51,10 +51,10 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 2. Substring
 
-   > 子字串，字串中的一段字串，如本題
+   > 子字串，字串中**連續**的一段字串，如本題
 
 3. Subsequence
-   > 子序列，由左到右挑取連續字元所構成的字串
+   > 子序列，由左到右挑取字元所構成的字串（不用連續）
 
 ## 程式
 

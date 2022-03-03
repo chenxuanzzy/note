@@ -42,7 +42,7 @@ Output: 0
 - 開始位置加總直到總和 sum 大於 target 後進入判斷當前窗口大小再存放至 minLength 中
 - 回傳長度
 
-  補充：
+補充：
 
 1. [Infinity](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Infinity)
 
