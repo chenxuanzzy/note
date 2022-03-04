@@ -39,8 +39,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 題目：給一段字串，擷取沒有重複的字元後回傳長度（must be substring）
 
-- 建立空陣列利用`indexOf`查找沒有重複的字元放入，如果 index = -1 代表陣列中沒有此字元，反之，有的話就利用 splice 將它去除，此時滑動窗口至
-  下一個字元，需要注意的是去除是從 0 開始至 **index + 1**
+- 建立空陣列利用`indexOf`查找沒有重複的字元放入，如果 index = -1 代表陣列中沒有此字元，反之，有的話就利用 splice 將它去除，此時滑動窗口至下一個字元，需要注意的是去除是從 0 開始至 **index + 1**
 - 回傳比較陣列長度和初始值 max 誰較大
 
 補充：
@@ -58,7 +57,7 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 
 ## 程式
 
-@[code](./code/LeetCode/LongestSubstringWithoutRepeatingCharacters/index.js)
-
+<!-- @[code](../code/LeetCode/LongestSubstringWithoutRepeatingCharacters/index.js) -->
+@[code](../code/LeetCode/MergeTwoSortedLists/index.js)
 - Time Complexity: O(n)
 - Space Complexity: O(n)
