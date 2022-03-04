@@ -6,8 +6,8 @@ export const navbar: NavbarConfig = [
     link: '/',
   },
   {
-    text: 'Note',
-    link: '/note/',
+    text: 'Coding',
+    link: '/coding/',
   },
   {
     text: 'About',
@@ -34,7 +34,7 @@ export const navbar: NavbarConfig = [
 ];
 
 export const sidebar: SidebarConfig = {
-  '/note/': ['',
+  '/coding/': ['',
     {
       type: 'group',
       text: 'LeetCode',
@@ -58,7 +58,7 @@ export const sidebar: SidebarConfig = {
       type: 'group',
       text: 'JavaScript - 30',
       link: 'javascript30',
-      children: ['','01-JavaScriptDrumKit',
+      children: ['','01-JavaScriptDrumKit','02-JSandCSSClock',
       ],
     },
     {

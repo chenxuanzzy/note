@@ -4,7 +4,7 @@ title: Home
 heroImage: /images/persimmon1.png
 actions:
   - text: Get Started
-    link: /note/
+    link: /coding/
     type: primary
   - text: About
     link: /about/
