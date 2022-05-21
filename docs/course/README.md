@@ -1,5 +1,5 @@
 ---
-title: Learning
+title: course
 # cover: https://i.imgur.com/oBxDoND.png
 ---
 

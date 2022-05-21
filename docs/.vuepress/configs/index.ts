@@ -10,8 +10,8 @@ export const navbar: NavbarConfig = [
     link: "/coding/",
   },
   {
-    text: "Learning",
-    link: "/learning/",
+    text: "Course",
+    link: "/course/",
   },
   {
     text: "About",
@@ -45,12 +45,12 @@ export const sidebar: SidebarConfig = {
       text: "LeetCode",
       link: "leetcode",
       children: [
-        {
-          type: "group",
-          text: "Easy",
-          link: "easy",
-          children: ["RomanToInteger", "MergeTwoSortedLists"],
-        },
+        // {
+        //   type: "group",
+        //   text: "Easy",
+        //   link: "easy",
+        //   children: ["RomanToInteger", "MergeTwoSortedLists"],
+        // },
         {
           type: "group",
           text: "Medium",
@@ -93,31 +93,38 @@ export const sidebar: SidebarConfig = {
       children: ["codimd-modify"],
     },
   ],
-  "/learning/": [
+  "/course/": [
     "",
     {
       type: "group",
       text: "Udemy",
       link: "udemy",
       children: [
-        {
-          type: "group",
-          text: "JavaScript Algorithms and DataStructures",
-          link: "JavaScriptAlgorithmsandDataStructures",
-          children: ["Section1-Intro", "Section2-BigOnotation"],
-        },
+        // {
+        //   type: "group",
+        //   text: "JavaScript Algorithms and DataStructures",
+        //   link: "JavaScriptAlgorithmsandDataStructures",
+        //   children: ["Section1-Intro", "Section2-BigOnotation"],
+        // },
       ],
     },
   ],
-
-  // "/learning/": [
-  //   {
-  //     type: "group",
-  //     text: "Udemy",
-  //     link: "udemy",
-  //     children: ["", "01-JavaScriptDrumKit"],
-  //   },
-  // ],
+  "/回顧/": [
+    "",
+    {
+      type: "group",
+      text: "Life",
+      link: "Life",
+      children: [
+        // {
+        //   type: "group",
+        //   text: "JavaScript Algorithms and DataStructures",
+        //   link: "JavaScriptAlgorithmsandDataStructures",
+        //   children: ["Section1-Intro", "Section2-BigOnotation"],
+        // },
+      ],
+    },
+  ],
 };
 
 export const tags: String[] = [
