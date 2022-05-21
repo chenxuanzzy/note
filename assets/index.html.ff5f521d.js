@@ -1,0 +1,1 @@
+const e={key:"v-70845b79",path:"/coding/javascript30/",title:"Intro",lang:"zh-TW",frontmatter:{title:"Intro"},excerpt:"",headers:[{level:2,title:"License",slug:"license",children:[]}],git:{updatedTime:165310804e4,contributors:[{name:"chenxuanzzy",email:"chenxsuan019@gmail.com",commits:1}]},filePathRelative:"coding/javascript30/README.md"};export{e as data};
