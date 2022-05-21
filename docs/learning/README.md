@@ -1,29 +1,7 @@
 ---
-title: Note
+title: Learning
 # cover: https://i.imgur.com/oBxDoND.png
 ---
-
-# Note
-
-> F2E - Note
-
-<!-- ## LeetCode
-
--
-
--
-
-## JavaScript - 30
-
--
-
-## Vue
-
-### projects
-
-### tutorial
-
-## tailwindcss -->
 
 <!-- ## 重點強調
 
